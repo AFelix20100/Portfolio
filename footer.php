@@ -2,16 +2,15 @@
   <footer id="footer">
       <div class="container">
           <h3>ARTHUR Félix-Vincent</h3>
-          <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
+          <p>"La passion de l'informatique, la créativité du développement"</p>
           <div class="social-links">
-              <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-              <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+            <a href="https://www.facebook.com/felix.arthur.585" class="facebook"><i class="bx bxl-facebook"></i></a>
+            <a href="https://www.instagram.com/felix_arthur_16" class="instagram"><i class="bx bxl-instagram"></i></a>
+            <a href="https://www.linkedin.com/in/felix-arthur" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+            <a href="https://www.youtube.com/@tutoinformatique8500" class="youtube"><i class="bx bxl-youtube"></i></a>
           </div>
           <div class="copyright">
-              &copy; Copyright <strong><span>MyResume</span></strong>. All Rights Reserved
+              &copy; Copyright <strong><span>ARTHUR Félix</span></strong>. All Rights Reserved
           </div>
           <div class="credits">
               <!-- All the links in the footer should remain intact. -->

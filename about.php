@@ -9,7 +9,7 @@ include "./header.php";
 
         <div class="section-title">
           <h2>À propos de moi</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Je suis actuellement en deuxième année de BTS Services Informatiques aux Organisations (SIO) et je suis passionné par l'informatique et les technologies numériques.</p>
         </div>
 
         <div class="row">
@@ -17,33 +17,27 @@ include "./header.php";
             <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content">
-            <h3>UI/UX Designer &amp; Web Developer.</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
+            <h3>Développeur Informatique</h3>
+            <p class="fst-italic">Créateur de solutions informatiques innovantes pour répondre aux défis actuels et futurs.</p>
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 May 1995</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+123 456 7890</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>New York, USA</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Né le:</strong> <span>16 Mars 2003</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>GitHub:</strong> <span><a href="https://github.com/AFelix20100">https://github.com/AFelix20100</a></span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Numéro:</strong> <span><a href="tel:0652823331">06.52.82.33.31</a></span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Ville:</strong> <span>Lucé, France</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>email@example.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Âge:</strong> <span>19</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Formation en cours:</strong> <span>BTS SIO SLAM</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>E-mail:</strong> <span><a href="mailto:arthur.felix160@gmail.com">arthur.felix160@gmail.com</a></span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                 </ul>
               </div>
             </div>
-            <p>
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
-            </p>
+            <p>Au cours de mes études, j'ai appris à créer des applications web et des bases de données, ainsi qu'à travailler avec des frameworks populaires tels que Symfony et Laminas. J'ai également acquis des compétences en conception de sites web, en optimisation de la performance et en sécurité informatique.</p>
           </div>
         </div>
 
