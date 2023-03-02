@@ -8,6 +8,7 @@
             <a href="https://www.instagram.com/felix_arthur_16" class="instagram"><i class="bx bxl-instagram"></i></a>
             <a href="https://www.linkedin.com/in/felix-arthur" class="linkedin"><i class="bx bxl-linkedin"></i></a>
             <a href="https://www.youtube.com/@tutoinformatique8500" class="youtube"><i class="bx bxl-youtube"></i></a>
+            <a href="https://www.doyoubuzz.com/felix-arthur" class="youtube"><i class="bx bxs-category-alt"></i></a>
           </div>
           <div class="copyright">
               &copy; Copyright <strong><span>ARTHUR Félix</span></strong>. All Rights Reserved
@@ -26,6 +27,7 @@
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
+  
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
   <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -37,6 +39,11 @@
   <script src="assets/vendor/php-email-form/validate.js"></script>
 
   <!-- Template Main JS File -->
+  <script src="assets/js/popper.min.js"></script>
+  <script>
+    const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]')
+    const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl))
+  </script>
   <script src="assets/js/main.js"></script>
 
   </body>

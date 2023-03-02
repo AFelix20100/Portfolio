@@ -12,6 +12,7 @@
             <a href="https://www.instagram.com/felix_arthur_16" class="instagram"><i class="bx bxl-instagram"></i></a>
             <a href="https://www.linkedin.com/in/felix-arthur" class="linkedin"><i class="bx bxl-linkedin"></i></a>
             <a href="https://www.youtube.com/@tutoinformatique8500" class="youtube"><i class="bx bxl-youtube"></i></a>
+            <a href="https://www.doyoubuzz.com/felix-arthur" class="youtube"><i class="bx bxs-category-alt"></i></a>
         </div>
     </div>
 </section><!-- End Hero -->
