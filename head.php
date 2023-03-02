@@ -5,13 +5,13 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>MyResume Bootstrap Template - Index</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <title>ARTHUR Félix-Vincent | Portfolio</title>
+  <meta content="Découvrez les compétences, le parcours professionnel et les réalisations d'Arthur Félix à travers une sélection de projets dans différents domaines, sur son portfolio en ligne. Contactez-le pour discuter de nouvelles opportunités professionnelles ou de collaborations." name="description">
+  <meta content="développeur, développement web, programmation, logiciel, applications, projets, compétences, expérience, portfolio en ligne, Arthur Félix" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/logo.png" rel="icon">
+  <link href="assets/img/logo.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">

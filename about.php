@@ -22,22 +22,18 @@ include "./header.php";
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Né le:</strong> <span>16 Mars 2003</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Âge:</strong> <span>19</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>GitHub:</strong> <span><a href="https://github.com/AFelix20100">https://github.com/AFelix20100</a></span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Numéro:</strong> <span><a href="tel:0652823331">06.52.82.33.31</a></span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Ville:</strong> <span>Lucé, France</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Âge:</strong> <span>19</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Formation en cours:</strong> <span>BTS SIO SLAM</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>E-mail:</strong> <span><a href="mailto:arthur.felix160@gmail.com">arthur.felix160@gmail.com</a></span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Disponible</span></li>
                 </ul>
               </div>
             </div>
-            <p>Au cours de mes études, j'ai appris à créer des applications web et des bases de données, ainsi qu'à travailler avec des frameworks populaires tels que Symfony et Laminas. J'ai également acquis des compétences en conception de sites web, en optimisation de la performance et en sécurité informatique.</p>
+            <p>Au cours de mes études, j'ai appris à créer des applications web et des bases de données, ainsi qu'à travailler avec des frameworks populaires tels que Symfony et Laminas. <br> J'ai également acquis des compétences en conception de sites web, en optimisation de la performance et en sécurité informatique.</p>
           </div>
         </div>
 

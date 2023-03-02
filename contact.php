@@ -18,7 +18,7 @@ include "./header.php";
                         <div class="address">
                             <i class="bi bi-geo-alt"></i>
                             <h4>Adresse:</h4>
-                            <p>6 Rue François Robillard | 28110, Lucé</p>
+                            <p><a href="https://goo.gl/maps/kxsNGqto78uVbYSE7">6 Rue François Robillard | 28110, Lucé</a></p>
                         </div>
 
                         <div class="email">
