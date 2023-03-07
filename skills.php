@@ -112,7 +112,6 @@ include "./header.php";
 
         </div>
 
-
         <div class="col-lg-4">
 
           <div class="progress">
@@ -139,7 +138,7 @@ include "./header.php";
         </div>
 
       </div>
-      <div class="card competences-formation mt-5">
+      <!-- <div class="card competences-formation mt-5">
         <div class="card-body">
           <div class="row row-cols-1 row-cols-md-4 g-4">
             <div class="col" data-bs-container="body" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-placement="top" data-bs-content="Top popover">
@@ -180,7 +179,61 @@ include "./header.php";
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
+      <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio section-bg">
+        <div class="container" data-aos="fade-up">
+
+            <div class="section-title">
+                <h2>Mes compétences pour le BTS SIO</h2>
+                <p>Voici les projets et activités que j'ai réalisés afin de valider ma formation</p>
+            </div>
+
+            <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+                <div class="col-lg-4 col-md-6 portfolio-item">
+                    <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/matchjob.webp" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>MatchJob</h4>
+                            <div class="portfolio-links">
+                                <a href="./skills/matchjob.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item">
+                    <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/fulbank.webp" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Fulbank</h4>
+                            <p>Formation</p>
+                            <div class="portfolio-links">
+                                <a href="./projects/portfolio-details-fulbank.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item">
+                    <div class="portfolio-wrap">
+                        <img src="assets/img/portfolio/ZendyShop.webp" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4><a href="http://felix.gsvcom.fr">ZendyShop</a></h4>
+                            <p>Formation</p>
+                            <div class="portfolio-links">
+                                <a href="assets/img/portfolio/ZendyShop.webp" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                                <a href="./projects/portfolio-details-zendyshop.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section><!-- End Portfolio Section -->
     </div>
   </section><!-- End Skills Section -->
 </main>
