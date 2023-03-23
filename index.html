@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>ARTHUR Félix-Vincent | Portfolio</title>
+    <title>Félix ARTHUR | Portfolio</title>
     <meta
         content="Découvrez les compétences, le parcours professionnel et les réalisations d'Arthur Félix à travers une sélection de projets dans différents domaines, sur son portfolio en ligne. Contactez-le pour discuter de nouvelles opportunités professionnelles ou de collaborations."
         name="description">
@@ -29,6 +29,7 @@
     <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
     <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    
 
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
@@ -66,7 +67,7 @@
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex flex-column justify-content-center">
         <div class="container" data-aos="zoom-in" data-aos-delay="100">
-            <h1>ARTHUR Félix-Vincent</h1>
+            <h1>Félix ARTHUR</h1>
             <p>Je suis <span class="typed" data-typed-items="Développeur"></span></p>
             <div class="social-links">
                 <a href="https://www.facebook.com/felix.arthur.585" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -286,6 +287,18 @@
                                         <h4>Formation BTS</h4>
                                         <div class="portfolio-bts-links">
                                             <a href="./skills/sio.html" class="portfolio-bts-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-4 col-md-6 portfolio-item">
+                                <div class="portfolio-bts-wrap">
+                                    <img src="assets/img/portfolio/document.webp" class="img-fluid" alt="">
+                                    <div class="portfolio-bts-info">
+                                        <h4>Documents</h4>
+                                        <div class="portfolio-bts-links">
+                                            <a href="./skills/document.html" class="portfolio-bts-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-plus"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -618,11 +631,29 @@
 
     <!-- Template Main JS File -->
     <script src="assets/js/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vanta/0.5.24/vanta.dots.min.js" integrity="sha512-fq89yHimK/w687Yjr89Vml8ax1HBNfN1k9IRi/nu91AmCrIWc/yQz5jkJKHoUWxGnuMcMwm7vRY50S7rZsXoDA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script>
         const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]')
         const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl))
     </script>
     <script src="assets/js/main.js"></script>
+    <script src="./assets/js/three.min.js"></script>
+    <script src="./assets/js/vanta.net.min.js"></script>
+    <script>
+    VANTA.NET({
+    el: "#hero",
+    mouseControls: true,
+    touchControls: true,
+    gyroControls: false,
+    minHeight: 200.00,
+    minWidth: 200.00,
+    scale: 1.00,
+    scaleMobile: 1.00,
+    color: 0x3fd3ff,
+    points: 11.00,
+    maxDistance: 23.00
+    })
+    </script>
 
 </body>
 
