@@ -219,11 +219,11 @@
    */
   new Swiper('.portfolio-details-slider', {
     speed: 400,
-    loop: true,
-    autoplay: {
-      delay: 5000,
-      disableOnInteraction: false
-    },
+    loop: false,
+    // autoplay: {
+    //   delay: 5000,
+    //   disableOnInteraction: false
+    // },
     pagination: {
       el: '.swiper-pagination',
       type: 'bullets',
@@ -236,11 +236,11 @@
    */
   new Swiper('.testimonials-slider', {
     speed: 600,
-    loop: true,
-    autoplay: {
-      delay: 5000,
-      disableOnInteraction: false
-    },
+    loop: false,
+    // autoplay: {
+    //   delay: 5000,
+    //   disableOnInteraction: false
+    // },
     slidesPerView: 'auto',
     pagination: {
       el: '.swiper-pagination',
@@ -321,11 +321,11 @@ const portfolioBTSDetailsLightbox = GLightbox({
  */
 new Swiper('.portfolio-bts-details-slider', {
   speed: 400,
-  loop: true,
-  autoplay: {
-    delay: 5000,
-    disableOnInteraction: false
-  },
+  loop: false,
+  // autoplay: {
+  //   delay: 5000,
+  //   disableOnInteraction: false
+  // },
   pagination: {
     el: '.swiper-pagination',
     type: 'bullets',
