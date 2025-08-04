@@ -4,3 +4,5 @@ Disallow: assets/js/
 Disallow: assets/scss/
 Disallow: assets/vendor/
 Disallow: assets/forms/
+Disallow: assets/projects/
+Disallow: assets/skills/
